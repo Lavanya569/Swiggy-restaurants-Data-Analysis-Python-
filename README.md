@@ -12,7 +12,7 @@ Understand user behavior across different cities
 Python (Jupyter Notebook)
 Pandas & NumPy for data manipulation
 Matplotlib & Seaborn for visualization
-Plotly for interactive plots (optional)
+Plotly for interactive plots 
 Jupyter for data storytelling
 
 #  Insights
